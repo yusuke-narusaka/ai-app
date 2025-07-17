@@ -193,7 +193,7 @@ h3 {
   flex: 1; /* ボタンが均等な幅になるように設定 */
 }
 
-/* ここを修正・追加 */
+
 #prev-button,
 #next-button {
   background-color: #007bff; /* 青色に変更 */
@@ -204,7 +204,6 @@ h3 {
 #next-button:hover:not(:disabled) {
   background-color: #0056b3; /* ホバー時の色を濃い青に */
 }
-/* ここまで修正・追加 */
 
 
 #prev-button:disabled,
