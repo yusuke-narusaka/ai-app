@@ -46,12 +46,12 @@ https://yusuke-narusaka.github.io/ai-app/
 
 構造
 
-
+```
 章
 └ セクション
 └ サブセクション
 └ 学習項目
-
+```
 
 機能
 
@@ -71,11 +71,11 @@ https://yusuke-narusaka.github.io/ai-app/
 
 構造
 
-
+```
 章
 └ セクション
 └ 学習項目
-
+```
 
 機能
 
@@ -120,11 +120,10 @@ https://yusuke-narusaka.github.io/ai-app/
 # ファイル構成
 
 
+```
 ai-app
-│
 ├ index.html
 ├ styles.css
-│
 ├ main.js
 ├ quiz.js
 ├ questions.js
@@ -132,9 +131,9 @@ ai-app
 ├ questionList.js
 ├ textbook.js
 ├ textbookContent.js
-├ utils.js
-│
-└ README.md
+└ utils.js
+
+```
 
 
 ---
@@ -198,7 +197,10 @@ textbookContent.js
     "段落2"
   ]
 }
-技術スタック
+
+---
+```
+# 技術スタック
 
 HTML
 
@@ -208,7 +210,7 @@ JavaScript
 
 GitHub Pages
 
-免責事項
+# 免責事項
 
 このアプリは生成AIパスポート試験の学習補助を目的としています。
 試験内容の正確性や合格を保証するものではありません。
