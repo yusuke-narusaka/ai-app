@@ -1,6 +1,6 @@
 # AI App
 
-AIを使ったツールをブラウザから直接試せるアプリ集です。
+AIを使ったツールをブラウザから直接試せるアプリです。
 
 このプロジェクトは **GitHub Pages で公開**しているため  
 リポジトリをクローンせずにそのまま利用できます。
@@ -35,17 +35,6 @@ AIを活用した小さなツールや実験的なアプリをまとめたプロ
 
 ---
 
-## Usage
-
-1. 下記ページを開く
-
-https://yusuke-narusaka.github.io/ai-app/
-
-2. 利用したいAIツールを選択
-
-3. ブラウザ上でそのまま実行
-
----
 
 ## Project Structure
 ai-app
@@ -69,30 +58,3 @@ ai-app
 
 ---
 
-## Development
-
-ローカルで動かす場合
-
-git clone https://github.com/yusuke-narusaka/ai-app.git
-
-cd ai-app
-
-
-その後 `index.html` をブラウザで開くだけで動作します。
-
----
-
-## Roadmap
-
-今後追加予定
-
-- AIツールの追加
-- UI改善
-- モバイル対応
-- 新しいAI機能
-
----
-
-## License
-
-MIT
